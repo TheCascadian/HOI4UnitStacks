@@ -37,7 +37,7 @@ On capable hardware (modern multi-core CPU, high-speed RAM), generation is fast.
 This repository is the **only** canonical source for this version of the script.
 
 - **Author:** wrekt ([TheCascadian](https://github.com/TheCascadian))
-- **Inspired by:** [Magentabueller](https://github.com/greenbueller) of the HOI4 Modding Den Discord
+- **Inspired by:** [greenbueller](https://github.com/greenbueller) of the HOI4 Modding Den Discord
 - **Original script:** [hoi4-modding-den/Dens-HRE](https://github.com/hoi4-modding-den/Dens-HRE/blob/main/map/unitstacks.py)
 
 ---
