@@ -208,5 +208,5 @@ class UnitstacksPipelineApp(tk.Tk):
             self.after(0, lambda: self.toggle_ui_state(True))
 
 if __name__ == "__main__":
-    app = unitstacksApp()
+    app = UnitstacksPipelineApp()
     app.mainloop()
